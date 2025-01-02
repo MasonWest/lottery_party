@@ -77,7 +77,6 @@ lottery_party/
 
 ![截图](https://github.com/user-attachments/assets/368399ba-b567-44e4-a3d5-1466ee3ddd03)
 
-> 如果有实际的截图，可以将其替换上方占位符。
 
 ---
 
