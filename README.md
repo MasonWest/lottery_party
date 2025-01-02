@@ -36,6 +36,7 @@
 ```
 lottery_party/
 ├── lottery_image.py       # 主程序
+├── config.json            # 配置文件
 ├── lottery_bg.png         # 背景图片
 ├── avatar/                # 存放头像图片
 │   ├── 张三.png
